@@ -2,6 +2,7 @@
 Imports System.Net
 Imports System.Net.Sockets
 Imports System.Text
+Imports System.Text.RegularExpressions
 Namespace JJ2
     'The library
     Public Class JJ2Client
